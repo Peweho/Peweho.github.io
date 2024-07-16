@@ -46,5 +46,5 @@
 
 ## 3、参考
 
-- [视频资料]([Elastic Search是什么？Lucene是什么？架构是怎么样的？]https://www.bilibili.com/video/BV1yb421J7oX?vd_source=1f9ea29590303cada0b4e521e1e038e0)
+- [视频资料](https://www.bilibili.com/video/BV1yb421J7oX?vd_source=1f9ea29590303cada0b4e521e1e038e0)
 
